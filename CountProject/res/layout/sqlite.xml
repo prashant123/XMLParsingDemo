@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    
+    
+    
+    <EditText
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:hint="Name" android:id="@+id/edtName"
+    />
+
+<EditText
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:hint="Number" android:id="@+id/edtNum"
+    />
+    <Button
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Save" android:id="@+id/btnSave"
+    />
+    <Button
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="List" android:id="@+id/btnlist"
+    />   
+    <Button
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Update" android:id="@+id/btnUpdate"
+    />    
+    <Button
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Delete" android:id="@+id/btnDel"
+    />   
+    
+    <Button
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Delete Table" android:id="@+id/btnDelTable"
+    />  
+    
+</LinearLayout>
