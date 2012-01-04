@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Send Email Programatically</string>
+    <string name="app_name">Send Email</string>
+    <string name="lblEmailTo">To:</string>
+    <string name="lblEmailSubject">Subject:</string>
+    <string name="lblEmailBody">Body:</string>
+    <string name="btnEmailSend">Send Email</string>
+    
+</resources>
